@@ -202,7 +202,7 @@ function startLoading() {
     percentTxt.innerText = "1%";
 
     setTimeout(() => {
-        percentTxt.innerText = "42%";
+        percentTxt.innerText = "22%";
         setTimeout(() => {
             percentTxt.innerText = "62%";
             setTimeout(() => {
